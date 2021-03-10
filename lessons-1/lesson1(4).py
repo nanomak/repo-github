@@ -9,4 +9,3 @@ while num > 0:
         max_number = num % 10
     num = num // 10
 print(f'{max_number} самая большая цифра в числе {number}')
-
