@@ -17,4 +17,3 @@ hours = s // 3600
 minutes = (s//60) - (hours*60)
 seconds = s % 60
 print(f'{hours:02}:{minutes:02}:{seconds:02}')
-

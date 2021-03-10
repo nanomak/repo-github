@@ -17,4 +17,3 @@ if profit > lost:
 
 else:
     print("Фирма в убытках")
-
