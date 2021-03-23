@@ -1,0 +1,5 @@
+Sidorov 20000
+Ivanov 18000
+Petrov 21000
+Vorobey 19000
+Bobkov 22000
